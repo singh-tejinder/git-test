@@ -22,3 +22,15 @@ git commit -m "Adding first commit in local repo"
 //to add All files at once
 git add -A 
 
+git commit -a -m "commiting all files"
+
+got log
+
+//you cannot commit without giving message
+
+
+git branch firstbranch
+git checkout firstbranch
+
+//while merging branch, make sure you are checked out in destination i.e. master branch
+
