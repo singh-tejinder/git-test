@@ -1,0 +1,5 @@
+public status void main()
+{
+
+}
+

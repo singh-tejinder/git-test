@@ -17,5 +17,8 @@ git status
 
 git add <file_name>
 
+git commit -m "Adding first commit in local repo"
 
+//to add All files at once
+git add -A 
 
