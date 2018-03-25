@@ -34,3 +34,13 @@ git checkout firstbranch
 
 //while merging branch, make sure you are checked out in destination i.e. master branch
 
+ssh-keygen
+
+copy generated key in GitHub setting-> SSH key
+
+ssh -T git@github.com
+
+git checkout firstbranch
+
+git push origin firstbranch
+
