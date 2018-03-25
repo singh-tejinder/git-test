@@ -1,0 +1,21 @@
+Right click- > Git Bash here
+
+//To create repository
+git init
+
+
+// to add origin
+git remote add origin <link
+
+//to pull file
+git pull origin master
+
+//to push files
+git push
+
+git status
+
+git add <file_name>
+
+
+
